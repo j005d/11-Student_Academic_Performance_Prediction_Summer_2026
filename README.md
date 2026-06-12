@@ -1,4 +1,3 @@
-# 11-Student_Academic_Performance_Prediction_Summer_2026
 # Student Academic Performance Prediction
 
 ## Overview
