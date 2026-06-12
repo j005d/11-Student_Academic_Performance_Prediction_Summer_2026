@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of the **IDEAS Summer Internship Program 2026**.
+This project was completed as part of the **IDEAS TIH Summer Internship Program 2026**.
 
 The objective of this project is to predict a student's academic performance category using Machine Learning techniques. The project demonstrates the complete machine learning workflow, including data preprocessing, feature engineering, model training, evaluation, and interpretation.
 
